@@ -1,3 +1,1 @@
 # zenn-docs
-これはテストです。
-demo
